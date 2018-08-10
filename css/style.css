@@ -1,12 +1,10 @@
 
 .slider {
-    /* background: url("../images/Black-Color2.jpg"); */
-    background: url("../images/fenadu.jpg");
+    background: url("../images/infinite.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
-    /* color: chocolate; */
-    /* color: green; */
+    color:rgb(13, 196, 13);
 }
 
 * {
